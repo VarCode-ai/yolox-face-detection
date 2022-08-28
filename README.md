@@ -146,7 +146,7 @@ python tools/demo.py video -f exps/example/yolox_voc/yolox_voc_s.py -c YOLOX_out
 ```
 
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://yolox.readthedocs.io/en/latest/)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
